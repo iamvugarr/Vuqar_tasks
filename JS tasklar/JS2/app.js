@@ -1,16 +1,20 @@
 //----------------------------------------EDEDIN KVADRAT KOKU--------------------------
+// A: done ✅
+
 // let eded= +prompt('ededi daxil edin= ')
 // let kvadratkok= eded ** (1/2)
 
 // console.log('ededin kavdrat koku= ' +kvadratkok)
 
 //--------------------------------SELSI FARENHEYT CEVIREN----------------------------
+// A: done ✅
 // let selsideyeri= +prompt('selsi deyerini daxil edin: ')
 // let farenheytdeyeri= selsideyeri * 1.8 + 32
 
 // console.log('farenheyt deyeri= ' +farenheytdeyeri)
 
 //--------------------------------EDEDIN MENFI MUSBET 0 OLDUGUNU TAPIR--------------------------------
+// A: done ✅
 // let eded= +prompt('ededi daxil edin: ')
 
 // if(eded>0){
@@ -26,6 +30,7 @@
 // }
 
 //-----------------------------EDEDIN TEK VE YA CUT OLDUGUNU TAPIR---------------------------
+// A: done ✅
 // let eded= +prompt('ededi daxil edin: ')
 
 // if(eded%2==0){
