@@ -1,3 +1,5 @@
+// A: done ✅
+
 // let uzunluq = prompt('duzbucaqlinin uzunlugunu daxil edin: ')
 // let en = prompt('duzbucaqlinin enini daxil edin: ')
 
